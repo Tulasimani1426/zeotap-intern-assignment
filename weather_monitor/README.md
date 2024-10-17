@@ -14,7 +14,7 @@ This application monitors real-time weather conditions for various cities in Ind
 ### Prerequisites
 - Python 3.8 or higher
 - Internet connection to access the OpenWeatherMap API
-- 
+
 ## Non-Functional Considerations
 - **Security**: Input validation is enforced to prevent injection attacks and provide robust error handling for invalid rule syntax.
 - **Performance**: The AST structure allows efficient evaluation of rules, minimizing redundant checks and memory usage.
